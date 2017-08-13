@@ -1,0 +1,22 @@
+[
+    {
+       "card" : "basic",
+       "front" : "What is Bruno Mars real name?",
+       "back": "Peter Gene Hernandez"
+    },
+    {
+       "card": "basic",
+       "front" : "Where was Bruno Mars born?",
+       "back" : "Honolulu, Hawaii"
+    },
+    {
+        "card": "basic",
+        "front": "What year was Bruno born in?",
+        "back": "1985"
+    },
+    {
+        "card": "basic",
+        "front": "What is the name of Bruno's first album?",
+        "back": "Doo-Wops and Hooligans"
+    }
+]

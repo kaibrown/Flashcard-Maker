@@ -1,0 +1,22 @@
+{
+  "name": "flashcardmaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaibrown/Flashcard-Maker.git"
+  },
+  "author": "kaisey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaibrown/Flashcard-Maker/issues"
+  },
+  "homepage": "https://github.com/kaibrown/Flashcard-Maker#readme",
+  "dependencies": {
+    "inquirer": "^3.2.1"
+  }
+}
